@@ -1,0 +1,8 @@
+Nasdaq_Data_Link==1.0.1
+pandas==1.4.2
+Pillow==9.1.0
+plotly==5.7.0
+requests==2.27.1
+streamlit==1.8.1
+streamlit_lottie==0.0.3
+streamlit_option_menu==0.3.2

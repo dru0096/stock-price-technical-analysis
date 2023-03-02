@@ -1,6 +1,7 @@
-# stock-price-technical-analysis :chart:
+# iSpyPatterns: stock-price-technical-analysis :chart:
 
 ## Objective: help a user make better buy/sell decisions and increase returns on short-term investments.
+![image](https://user-images.githubusercontent.com/99660532/222482001-cabfa755-a392-48c6-94dd-b173a80dbaab.png)
 
 ## Background
 This is my Ironhack bootcamp project completed in 1 week. The idea initiated when I was asked by an early-stage company to transform excel logic into python logic to identify specific stock price patterns. I create a workflow that can run daily and email alert the user on the same day the pattern is formed. 

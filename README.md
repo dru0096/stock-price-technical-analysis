@@ -7,7 +7,7 @@ This is my Ironhack bootcamp project completed in 1 week. The idea initiated whe
 
 ## Technical skills used
 * Python
-* HTML - for streamlit application
+* HTML - Streamlit application
 * API connections
 * Email Automation tools
 * Statistical Tests - T-test

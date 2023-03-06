@@ -1,4 +1,4 @@
-# iSpyPatterns: stock-price-technical-analysis :chart:
+# isPyPatterns: stock-price-technical-analysis :chart:
 
 ## Objective: help a user make better buy/sell decisions and increase returns on short-term investments.
 ![image](https://user-images.githubusercontent.com/99660532/222482001-cabfa755-a392-48c6-94dd-b173a80dbaab.png)
